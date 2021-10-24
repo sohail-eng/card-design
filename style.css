@@ -1,0 +1,32 @@
+﻿body {
+}
+
+* {
+
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    color: black;
+}
+.sitetitle{
+    padding-top:10px;
+    text-align:center;
+    height:80px;
+    font-size:40px;
+    font-family:'Harlow Solid';
+}
+
+#mn {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    width: 808px;
+    background-color: aqua;
+    margin-left: 2%;
+}
+
+
+
+.pannelcss {
+    width: 667px;
+    height: 343px;
+    background-color: antiquewhite;
+}
